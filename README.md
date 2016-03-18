@@ -18,4 +18,11 @@ Quest
 
   Please see the file called LICENSE.
 
+  Configuration
+  -------------
+  The module has a menu and it has full configuration. When enabled it will start to send information to the database. 
+  
+
+
+
 
